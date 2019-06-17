@@ -53,5 +53,8 @@ public class LoginPage extends TestBase
 		
 		return new HomePage();
 	}
-	
+	public void gitTest()
+	{
+		System.out.println("This is only to test GIT");
+	}
 }
